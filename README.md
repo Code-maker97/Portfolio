@@ -30,18 +30,3 @@ Created by Piyush Tiwari * GitHub: @Code-maker97
 Email: [Insert Your Email Here]
 
 Created with love and light.
-
-
-### Step 3: Push it to GitHub (Using GitHub Desktop)
-1.  **Save** the `README.md` file.
-2.  Open **GitHub Desktop**.
-3.  You will see `README.md` with a green `+` icon in the changes list.
-4.  **Summary Box:** Type `Add README documentation`.
-5.  Click **Commit to main**.
-6.  Click **Push origin** (top right).
-
----
-
-**Check:** once you have pushed this, go to your repository link on GitHub. You will see this beautiful documentation displayed right below your code files.
-
-**Ready for the final piece (Task Manager App)?** Just say the word.
