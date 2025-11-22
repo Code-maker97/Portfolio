@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository! This website showcases my projects, skills, and experience as a Computer Science student and Full-Stack Developer.
 
 ## 🚀 Live Demo
-**Check out the live website here:** [https://code-maker97.github.io/portfolio/](https://code-maker97.github.io/portfolio/)
+**Check out the live website here:** [https://code-maker97.github.io/Portfolio/]
 
 ## 🛠️ Tech Stack
 * **HTML5**: Semantic structure.
